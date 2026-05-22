@@ -7,3 +7,5 @@ class Greeting {
         return sayHello(platform.name)
     }
 }
+
+// Modificación realizada por Rama 1
